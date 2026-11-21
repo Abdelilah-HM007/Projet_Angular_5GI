@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Component, signal } from '@angular/core';
 import { DatePipe, UpperCasePipe } from '@angular/common';
 @Component({
   standalone: true,
